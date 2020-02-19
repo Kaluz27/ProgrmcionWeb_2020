@@ -1,0 +1,35 @@
+El template string es el concatenar texto en un string y si sintaxis es 
+ 
+comillas invertidas y el usr signos de $para concaterlo sin necesidad de usar sumas
+
+y la interpolación string es el poder poner varias en una linea de texto.
+
+object literals
+JSON  = javascript object Notation;
+
+todo lo que conforma un objeto es 
+
+var myObjetc = {
+name : value pairs
+key : value
+}
+
+
+Un objeto es una coleccion de name/value pairs;
+
+Un objeto se puede anidar, ejemplo :
+
+var myObject_aninado = {
+name: value,
+nameDos : value, 
+nameTres = {
+name: value,
+nano: value
+}
+}
+
+
+para llamar los pairs en un objeto aninado podemos utilizar . o [];
+
+Se utiliza un export de la classe que tu necesites de esa clase y tienes que poner require en la class que necesites los datos de la clase que estas utilizando export;
+
