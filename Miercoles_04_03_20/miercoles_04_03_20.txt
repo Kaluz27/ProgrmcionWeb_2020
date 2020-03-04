@@ -1,0 +1,2 @@
+para tuilizar datos que se requieren por medio de la url se utiliza
+params y en el caso de recibir por el body se utiliza el body-parser para acceder al paquete http.
