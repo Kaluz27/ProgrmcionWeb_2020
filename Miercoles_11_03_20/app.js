@@ -19,7 +19,7 @@ request({url: url, json: true},(error, response) =>{
     console.log(`Name ${response.body.name}`);
 
     request({url:urlt, jason:true}, (error, response) =>{
-        console.log(response.body.results[locations]);
+        console.log(response.body.results[0].locations[0].latIng).lat;
     })
     
 
